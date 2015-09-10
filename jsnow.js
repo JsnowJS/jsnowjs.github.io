@@ -1,11 +1,10 @@
-# Initialize Jsnow
+// Initialize Jsnow
+
+// IE
+
+// Netscape
+
+// Konquerer
 
 
-# IE
-
-# Netscape
-
-# Konquerer
-
-
-# wrap things up
+// wrap things up
